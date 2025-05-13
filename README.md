@@ -85,15 +85,18 @@ Dataset dibersihkan dan diproses di Google Colab, lalu di convert ke csv untuk d
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+saya membuat dashboard ini untuk membantu mengidentifikasi kelompok karyawan yang lebih mudah keluar, sehingga perusahaan dapat mengambil langkah strategis untuk mengurangi tingkat karyawan yang resign dan kesejahteraan kerja.
+berikut link untuk menuju dashboard saya: https://lookerstudio.google.com/reporting/32c8bae8-104d-45c2-91ee-b7d7f5cb2cfe 
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+Setelah analisis yang dilakukan saya menemukan bahwa beberapa penyebab dari meningkatnya attrition pada perusahaan tersebut ialah OverTime, MaritalStatus_Single, JobRole_Sales Representative, JobRole_Laboratory Technician, BusinessTravel_Travel_Frequently, memiliki tingkat korelasi dengan Attrition yang tinggi dan menjadi penyebab mengapa karyawan banyak yang mengundurkan diri.
 
 ### Rekomendasi Action Items (Optional)
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
-- action item 1
-- action item 2
+-Evaluasi sistem lembur: Adakan program monitoring stres kerja dan keseimbangan kerja-hidup.
+-Evaluasi untuk posisi Sales: Evaluasi beban kerja, target, dan insentif pada divisi Sales.
+-Strategi untuk Single: Jalur Karier yang Jelas, Fleksibilitas Kerja, Manfaat Personal yang Fleksibel.
+-Perjalanan Dinas: Berikan opsi untuk hybrid atau manfaat tambahan untuk kompensasi fatigue dari frequent travel.

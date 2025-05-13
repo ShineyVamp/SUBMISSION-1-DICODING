@@ -105,3 +105,39 @@ Berikut rekomendasi action items yang harus dilakukan perusahaan guna menyelesai
 
 -Perjalanan Dinas: Berikan opsi untuk hybrid atau manfaat tambahan untuk kompensasi fatigue dari frequent travel.
 
+## Cara Menggunakan Model 
+1.Buka file prediksi.py yang telah didownload 
+
+2.Masukkan data sesuai dengan template didalam file prediksi.py dengan ketentuan:
+
+OverTime: Masukan 1 untuk ya 0 untuk tidak
+
+MaritalStatus_Single: Masukan 1 untuk ya 0 untuk tidak
+
+JobRole_Sales Representative: Masukan 1 untuk ya 0 untuk tidak
+
+JobRole_Laboratory Technician: Masukan 1 untuk ya 0 untuk tidak
+
+BusinessTravel_Travel_Frequently: Masukan 1 untuk ya 0 untuk tidak
+
+EnvironmentSatisfaction: 1-Low, 2-Medium, 3-High, 4-Very High
+
+YearsAtCompany: berapa tahun
+
+JobInvolvement: 1-Low, 2-Medium, 3-High, 4-Very High
+
+YearsWithCurrManager: berapa tahun
+
+YearsInCurrentRole: berapa tahun
+
+MonthlyIncome: masukkan gaji
+
+StockOptionLevel: Stock Option Level
+
+JobLevel: Level of job (1 to 5)
+
+Age: Age
+
+TotalWorkingYears: berapa tahun
+
+

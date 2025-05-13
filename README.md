@@ -98,6 +98,10 @@ Setelah analisis yang dilakukan saya menemukan bahwa beberapa penyebab dari meni
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
 -Evaluasi sistem lembur: Adakan program monitoring stres kerja dan keseimbangan kerja-hidup.
+
 -Evaluasi untuk posisi Sales: Evaluasi beban kerja, target, dan insentif pada divisi Sales.
+
 -Strategi untuk Single: Jalur Karier yang Jelas, Fleksibilitas Kerja, Manfaat Personal yang Fleksibel.
+
 -Perjalanan Dinas: Berikan opsi untuk hybrid atau manfaat tambahan untuk kompensasi fatigue dari frequent travel.
+

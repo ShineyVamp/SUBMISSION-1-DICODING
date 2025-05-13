@@ -97,7 +97,7 @@ Setelah analisis yang dilakukan saya menemukan bahwa beberapa penyebab dari meni
 
 Berikut rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka:
 
--Evaluasi sistem lembur: Adakan program monitoring stres kerja dan keseimbangan kerja-hidup.
+-Evaluasi sistem lembur: Adakan program monitoring stres kerja dan work-life balance.
 
 -Evaluasi untuk posisi Sales: Evaluasi beban kerja, target, dan insentif pada divisi Sales.
 

@@ -26,7 +26,7 @@ Membaca dataset employee.csv
 Membersihkan data:
 Menangani nilai null
 Encoding variabel kategorikal (One-hot encoding / Label encoding)
-Feature selection dan engineering (misalnya menggabungkan atau mengubah kolom)
+Feature selection dan engineering
 
 Eksplorasi data awal (EDA):
 Distribusi umur, income, masa kerja

@@ -64,7 +64,23 @@ Sumber data: ....
 Setup environment:
 
 ```
+1. Notebook & Data Processing
+Platform: Google Colaboratory (Google Colab)
 
+Bahasa Pemrograman: Python
+
+Library yang Digunakan:
+pandas – untuk manipulasi data
+numpy – untuk perhitungan numerik
+matplotlib, seaborn – untuk visualisasi eksploratif (EDA)
+scikit-learn – untuk preprocessing data dan membuat model machine learning
+
+2. Visualisasi Bisnis
+Platform: Google Looker Studio
+
+3. Penyimpanan Data
+Dataset awal dalam format .csv
+Dataset dibersihkan dan diproses di Google Colab, lalu di convert ke csv untuk digunakan di Looker Studio
 ```
 
 ## Business Dashboard

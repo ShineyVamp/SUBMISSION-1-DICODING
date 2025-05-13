@@ -74,6 +74,7 @@ pandas – untuk manipulasi data
 numpy – untuk perhitungan numerik
 matplotlib, seaborn – untuk visualisasi eksploratif (EDA)
 scikit-learn – untuk preprocessing data dan membuat model machine learning
+imabalnced-learn - untuk mengatasi data tidak seimban
 
 2. Visualisasi Bisnis
 Platform: Google Looker Studio

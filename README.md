@@ -95,7 +95,7 @@ Setelah analisis yang dilakukan saya menemukan bahwa beberapa penyebab dari meni
 
 ### Rekomendasi Action Items (Optional)
 
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
+Berikut rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka:
 
 -Evaluasi sistem lembur: Adakan program monitoring stres kerja dan keseimbangan kerja-hidup.
 

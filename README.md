@@ -59,7 +59,7 @@ Visualisasi fitur terhadap attrition (histogram)
 
 ### Persiapan
 
-Sumber data: [....](https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv)
+Sumber data: (https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv)
 
 Setup environment:
 

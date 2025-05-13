@@ -14,12 +14,12 @@ Masalah dalam pengelolaan karyawan dikarekan angka attrition rate lebih dari 10%
 
 ### Cakupan Proyek
 
-Analisis dan Prediksi Employee Attrition dengan Python dan Google Looker Studio
+#### Analisis dan Prediksi Employee Attrition dengan Python dan Google Looker Studio
 
-Tujuan:
+##### Tujuan:
 Membangun sistem analisis menyeluruh untuk memahami faktor-faktor yang memengaruhi attrition karyawan dan membuat model prediksi apakah seorang karyawan berisiko mengundurkan diri (attrition) atau tidak. Hasil akhir divisualisasikan dalam dashboard interaktif menggunakan Google Looker Studio.
 
-Cakupan Proyek:
+##### Cakupan Proyek:
 1.Data Preparation & Cleaning (Jupyter Notebook / .ipynb)
 Membaca dataset employee.csv
 

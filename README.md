@@ -2,15 +2,61 @@
 
 ## Business Understanding
 
-Jelaskan latar belakang bisnis dari perushaan tersebut.
+Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000. Ia memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri. 
+
+Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih cukup kesulitan dalam mengelola karyawan. Hal ini berimbas tingginya attrition rate (rasio jumlah karyawan yang keluar dengan total karyawan keseluruhan) hingga lebih dari 10%.
+
+Untuk mencegah hal ini semakin parah, manajer departemen HR ingin meminta bantuan Anda mengidentifikasi berbagai faktor yang mempengaruhi tingginya attrition rate tersebut. Selain itu, ia juga meminta Anda untuk membuat business dashboard untuk membantunya memonitori berbagai faktor tersebut.
 
 ### Permasalahan Bisnis
 
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+Masalah dalam pengelolaan karyawan dikarekan angka attrition rate lebih dari 10%
 
 ### Cakupan Proyek
 
-Tuliskan cakupan proyek yang akan dikerjakan.
+Analisis dan Prediksi Employee Attrition dengan Python dan Google Looker Studio
+
+Tujuan:
+Membangun sistem analisis menyeluruh untuk memahami faktor-faktor yang memengaruhi attrition karyawan dan membuat model prediksi apakah seorang karyawan berisiko mengundurkan diri (attrition) atau tidak. Hasil akhir divisualisasikan dalam dashboard interaktif menggunakan Google Looker Studio.
+
+Cakupan Proyek:
+1.Data Preparation & Cleaning (Jupyter Notebook / .ipynb)
+Membaca dataset employee.csv
+
+Membersihkan data:
+Menangani nilai null
+Encoding variabel kategorikal (One-hot encoding / Label encoding)
+Feature selection dan engineering (misalnya menggabungkan atau mengubah kolom)
+
+Eksplorasi data awal (EDA):
+Distribusi umur, income, masa kerja
+Korelasi fitur terhadap Attrition
+
+2.Feature Analysis (Statistik & Korelasi)
+Visualisasi heatmap korelasi fitur terhadap Attrition
+Analisis fitur penting seperti:
+OverTime, JobRole, MaritalStatus, BussinesTravel, dll
+
+3.Modeling: Predictive Machine Learning
+Menentukan target: Attrition (Yes/No)
+
+Model yang digunakan:
+Random Forest
+
+Splitting data: 
+Train-Test split
+
+Evaluasi model:
+Accuracy, Precision, Recall, F1-score
+Confusion Matrix
+ROC Curve / AUC
+
+4.Dashboard Visualisasi (Google Looker Studio)
+Menyambungkan Google Sheets hasil preprocessing ke Looker Studio
+
+Menampilkan:
+KPI utama (Total Karyawan, Attrition Rate, Jumlah Atrition)
+Visualisasi fitur terhadap attrition (histogram)
 
 ### Persiapan
 

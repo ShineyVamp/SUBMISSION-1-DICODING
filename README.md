@@ -29,7 +29,9 @@ Encoding variabel kategorikal (One-hot encoding / Label encoding)
 Feature selection dan engineering
 
 Eksplorasi data awal (EDA):
+Distribusi data attrition
 Korelasi fitur terhadap Attrition
+Korelasi antara fitur yang memiliki korelasi tertinggi dengan attrition dengan fitur pilihan
 
 2.Feature Analysis (Statistik & Korelasi)
 Visualisasi heatmap korelasi fitur terhadap Attrition

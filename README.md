@@ -74,7 +74,11 @@ pipenv shell
 pip install -r requirements.txt
 ```
 ```
-2.
+2.Prediksi
+buat notebook baru
+ketik %run /path_dari_file.py
+isi data sesuai petunjuk
+hasil prediksi akan muncul
 ```
 
 ## Business Dashboard

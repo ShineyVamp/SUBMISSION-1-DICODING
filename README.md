@@ -59,29 +59,20 @@ Visualisasi fitur terhadap attrition (histogram)
 
 ### Persiapan
 
-Sumber data: (https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv)
+Sumber data yang kita dapatkan kali ini adalah data karyawan dari perusahaan jaya jaya maju yang mengundurkan diri dan yang tidak mengundurkan diri sesuai dengan nilai yang ada pada dataset,dataset ini memiliki banyak kolom yang dapat membantu kita menganalisis tinggi nya tingkat attrition pada perusahaan jaya jaya maju
+berikut link dataset yang kita gunakan : (https://github.com/dicodingacademy/dicoding_dataset/blob/main/employee/employee_data.csv)
 
-Setup environment:
+Setup environment - Shell/Terminal (Download File):
 
 ```
-1. Notebook & Data Processing
-Platform: Google Colaboratory (Google Colab)
-
-Bahasa Pemrograman: Python
-
-Library yang Digunakan:
-pandas – untuk manipulasi data
-numpy – untuk perhitungan numerik
-matplotlib, seaborn – untuk visualisasi eksploratif (EDA)
-scikit-learn – untuk preprocessing data dan membuat model machine learning
-imabalnced-learn - untuk mengatasi data tidak seimban
-
-2. Visualisasi Bisnis
-Platform: Google Looker Studio
-
-3. Penyimpanan Data
-Dataset awal dalam format .csv
-Dataset dibersihkan dan diproses di Google Colab, lalu di convert ke csv untuk digunakan di Looker Studio
+1.Analysis and Modelling 
+cd SUBMISSION-1-DICODING
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
+```
+2.
 ```
 
 ## Business Dashboard

@@ -74,9 +74,14 @@ pipenv shell
 pip install -r requirements.txt
 ```
 ```
-2.Prediksi
-buat notebook baru
+2.Prediksi (Membuat Notebook baru)
 ketik %run /path_dari_file.py
+isi data sesuai petunjuk
+hasil prediksi akan muncul
+```
+```
+2.Prediksi (Lewat Terminal)
+ketik python nama_file.py
 isi data sesuai petunjuk
 hasil prediksi akan muncul
 ```
